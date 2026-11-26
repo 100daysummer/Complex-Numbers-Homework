@@ -7,7 +7,7 @@
   "cells": [
     {
       "id": "Hbol",
-      "code_hash": "9d426136f8086d0291c8a69493af77f2",
+      "code_hash": "32a9945c61d2f48b3f93670952ff71be",
       "outputs": [
         {
           "type": "data",
@@ -19,8 +19,8 @@
       "console": []
     },
     {
-      "id": "pRAW",
-      "code_hash": "7b481580d5f483a3cb59f7f69f760e53",
+      "id": "MJUe",
+      "code_hash": "47ce34c9125838f08042b3851d1855d2",
       "outputs": [
         {
           "type": "data",
@@ -32,7 +32,7 @@
       "console": []
     },
     {
-      "id": "RNzj",
+      "id": "vblA",
       "code_hash": "d6c8be214b69a26ec92e0a598f369d29",
       "outputs": [
         {
@@ -45,33 +45,46 @@
       "console": []
     },
     {
-      "id": "yNzS",
-      "code_hash": "14461c504359422a13870c2110d3689d",
+      "id": "bkHC",
+      "code_hash": "fcac5e89482eec27ea411e002c8feae4",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='RNzj-0' random-id='b97f080a-d367-7d74-e28f-fc076a5ba043'><marimo-dropdown data-initial-value='[&quot;\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432&quot;]' data-label='null' data-options='[&quot;\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u041a\u043e\u0442\u0435\u0432&quot;,&quot;\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u0422\u043e\u0448\u0435\u0432&quot;,&quot;\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u0411\u0430\u043a\u044a\u0440\u0434\u0436\u0438\u0435\u0432&quot;,&quot;\u0410\u043d\u0442\u043e\u043d&quot;,&quot;\u0411\u043e\u0440\u0438\u043c\u0438\u0440&quot;,&quot;\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432&quot;,&quot;\u0411\u0440\u0430\u043d\u0438\u043c\u0438\u0440&quot;,&quot;\u0412\u0435\u043b\u0438\u043d&quot;,&quot;\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f&quot;,&quot;\u0413\u0435\u043e\u0440\u0433\u0438&quot;,&quot;\u0413\u0435\u0440\u0433\u0430\u043d\u0430&quot;,&quot;\u0414\u0438\u043c\u0438\u0442\u044a\u0440&quot;,&quot;\u0418\u0432\u0435\u0442&quot;,&quot;\u0419\u043e\u0430\u043d\u0430&quot;,&quot;\u041a\u0430\u043b\u0438\u043d\u0430&quot;,&quot;\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d&quot;,&quot;\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d \u041c\u0430\u043d\u0438\u043a\u0430\u0442\u043e\u0432&quot;,&quot;\u041a\u0440\u0438\u0441\u0442\u0438\u044f\u043d \u0413\u0438\u0433\u043e\u0432&quot;,&quot;\u041a\u0440\u0438\u0441\u0442\u0438\u044f\u043d \u041f\u0435\u0442\u0440\u043e\u0432&quot;,&quot;\u041a\u0440\u0443\u043c&quot;,&quot;\u041c\u0430\u043a\u0441\u0438\u043c&quot;,&quot;\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u0430&quot;,&quot;\u041c\u0430\u044f&quot;,&quot;\u041c\u043e\u043c\u0447\u0438\u043b&quot;,&quot;\u041d\u0438\u043a\u043e\u043b\u0430 \u041f\u043e\u043b\u0438\u043c\u0435\u043d\u043e\u0432&quot;,&quot;\u041d\u0438\u043a\u043e\u043b\u0430 \u041d\u0438\u043a\u043e\u043b\u043e\u0432&quot;,&quot;\u0421\u043e\u0444\u0438\u044f&quot;,&quot;\u042f\u043d\u0430&quot;]' data-allow-select-none='false' data-searchable='false' data-full-width='false' data-disabled='false'></marimo-dropdown></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">\u0422\u0438 \u0441\u0438 \u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432. \u041d\u043e\u043c\u0435\u0440\u044a\u0442 \u0442\u0438 \u0432 \u043a\u043b\u0430\u0441\u0430 \u0435 6, a \u0434\u0435\u043d\u044f\u0442 \u0442\u0438 \u043d\u0430 \u0440\u0430\u0436\u0434\u0430\u043d\u0435 \u0435 20. \u0421\u044a\u043e\u0442\u0432\u0435\u0442\u043d\u043e <strong>a</strong> = 7 \u0438 <strong>b</strong> = 1</span></span></div>"
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='vblA-0' random-id='49695b39-ade6-d541-7714-87b28f229324'><marimo-dropdown data-initial-value='[&quot;\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432&quot;]' data-label='null' data-options='[&quot;\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u041a\u043e\u0442\u0435\u0432&quot;,&quot;\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u0422\u043e\u0448\u0435\u0432&quot;,&quot;\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u044a\u0440 \u0411\u0430\u043a\u044a\u0440\u0434\u0436\u0438\u0435\u0432&quot;,&quot;\u0410\u043d\u0442\u043e\u043d&quot;,&quot;\u0411\u043e\u0440\u0438\u043c\u0438\u0440&quot;,&quot;\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432&quot;,&quot;\u0411\u0440\u0430\u043d\u0438\u043c\u0438\u0440&quot;,&quot;\u0412\u0435\u043b\u0438\u043d&quot;,&quot;\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f&quot;,&quot;\u0413\u0435\u043e\u0440\u0433\u0438&quot;,&quot;\u0413\u0435\u0440\u0433\u0430\u043d\u0430&quot;,&quot;\u0414\u0438\u043c\u0438\u0442\u044a\u0440&quot;,&quot;\u0418\u0432\u0435\u0442&quot;,&quot;\u0419\u043e\u0430\u043d\u0430&quot;,&quot;\u041a\u0430\u043b\u0438\u043d\u0430&quot;,&quot;\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d&quot;,&quot;\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d \u041c\u0430\u043d\u0438\u043a\u0430\u0442\u043e\u0432&quot;,&quot;\u041a\u0440\u0438\u0441\u0442\u0438\u044f\u043d \u0413\u0438\u0433\u043e\u0432&quot;,&quot;\u041a\u0440\u0438\u0441\u0442\u0438\u044f\u043d \u041f\u0435\u0442\u0440\u043e\u0432&quot;,&quot;\u041a\u0440\u0443\u043c&quot;,&quot;\u041c\u0430\u043a\u0441\u0438\u043c&quot;,&quot;\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u0430&quot;,&quot;\u041c\u0430\u044f&quot;,&quot;\u041c\u043e\u043c\u0447\u0438\u043b&quot;,&quot;\u041d\u0438\u043a\u043e\u043b\u0430 \u041f\u043e\u043b\u0438\u043c\u0435\u043d\u043e\u0432&quot;,&quot;\u041d\u0438\u043a\u043e\u043b\u0430 \u041d\u0438\u043a\u043e\u043b\u043e\u0432&quot;,&quot;\u0421\u043e\u0444\u0438\u044f&quot;,&quot;\u042f\u043d\u0430&quot;]' data-allow-select-none='false' data-searchable='false' data-full-width='false' data-disabled='false'></marimo-dropdown></marimo-ui-element><marimo-ui-element object-id='bkHC-0' random-id='1c0a80d5-b106-4cc6-5612-941a9a6fba71'><marimo-checkbox data-initial-value='false' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003e\u0420\u044a\u0447\u043d\u043e \u0437\u0430\u0434\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 a \u0438 b&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-disabled='false'></marimo-checkbox></marimo-ui-element><marimo-ui-element object-id='bkHC-1' random-id='ba4e9424-b4d0-c018-a6b2-72380444e84d'><marimo-slider data-initial-value='5' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003ea&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-start='1' data-stop='10' data-step='1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='true' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><marimo-ui-element object-id='bkHC-2' random-id='89672b10-fe2c-ee6e-67e7-d5f0ff6d842f'><marimo-slider data-initial-value='7' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eb&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-start='1' data-stop='10' data-step='1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='true' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element></div>"
           }
         }
       ],
       "console": []
     },
     {
-      "id": "kCeL",
-      "code_hash": "fc9b7fa5c470732ed01dbb4a471eb6f9",
+      "id": "lEQa",
+      "code_hash": "b1df770a2df8676daa1c6e3e4419ee46",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"1\">\u0417\u0430\u0434\u0430\u0447\u0430 1</h1>\n<span class=\"paragraph\">\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0435\u0442\u0435 \u0432 \u0430\u043b\u0433\u0435\u0431\u0440\u0438\u0447\u0435\u043d \u0432\u0438\u0434</span></span>"
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">\u0422\u0438 \u0441\u0438 \u0419\u043e\u0430\u043d\u0430. \u041d\u043e\u043c\u0435\u0440\u044a\u0442 \u0442\u0438 \u0432 \u043a\u043b\u0430\u0441\u0430 \u0435\n14, \u0430 \u0434\u0435\u043d\u044f\u0442 \u0442\u0438 \u043d\u0430 \u0440\u0430\u0436\u0434\u0430\u043d\u0435 \u0435\n26.</span>\n<span class=\"paragraph\">\u0421\u044a\u043e\u0442\u0432\u0435\u0442\u043d\u043e <strong>a</strong> = 5 \u0438 <strong>b</strong> = 7.</span></span>"
           }
         }
       ],
       "console": []
     },
     {
-      "id": "lhae",
+      "id": "PKri",
+      "code_hash": "5fd9737772ed40a30b522c23ffbfce6d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
       "code_hash": "d349100a43001026984720432ae1c35f",
       "outputs": [
         {
@@ -84,8 +97,8 @@
       "console": []
     },
     {
-      "id": "ymLo",
-      "code_hash": "8e368c4bd50cd1c9cd8b977222e7b3c9",
+      "id": "SFPL",
+      "code_hash": "45e5d196e2cb954677c8e3122ef9364c",
       "outputs": [
         {
           "type": "data",
@@ -97,13 +110,286 @@
       "console": []
     },
     {
-      "id": "Lszm",
-      "code_hash": "8c47f565439bb94c47937c513cdfc41d",
+      "id": "BYtC",
+      "code_hash": "fc9b7fa5c470732ed01dbb4a471eb6f9",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='ymLo-0' random-id='d39b3902-1190-fafd-f722-bfb72bb9ad94'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;73841df0213b4cdb887a2d7434f2cbb5&quot;}' data-label='null' data-model-id='&quot;73841df0213b4cdb887a2d7434f2cbb5&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n= \\frac{5}{3} + \\frac{1}{3}\\sqrt{2}\\,i\n||]</marimo-tex></span></div>"
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"1\">\u0417\u0430\u0434\u0430\u0447\u0430 1</h1>\n<span class=\"paragraph\">\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0435\u0442\u0435 \u0432 \u0430\u043b\u0433\u0435\u0431\u0440\u0438\u0447\u0435\u043d \u0432\u0438\u0434</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "aabeb5eae6b68066d259f07589590b9e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='SFPL-0' random-id='2085a12a-a4ee-e120-ce18-653aa55e8624'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;9e8ec6e33ad14ccea0018d877b389dac&quot;}' data-label='null' data-model-id='&quot;9e8ec6e33ad14ccea0018d877b389dac&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n= -\\frac{1}{3} + \\frac{7}{3}\\sqrt{2}\\,i\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "31b7037a7f180ac0c293c61394bb0418",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "581f0aa5ac93a49b9cacd81f9ad1eeb5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='Kclp-0' random-id='db15428f-18b7-66e2-1cf0-88d7ee46d95c'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;8fb917b744754d7dbcdacfdbde40d07e&quot;}' data-label='null' data-model-id='&quot;8fb917b744754d7dbcdacfdbde40d07e&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n= -1+\\sqrt{3}i\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "e45373e6b1d325f4ea3e136fea789d67",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "588550e7fbf2ccbb8741cc0547d9eadc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"2\">\u0417\u0430\u0434\u0430\u0447\u0430 2</h1>\n<span class=\"paragraph\">\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0435\u0442\u0435 \u0432 \u0442\u0440\u0438\u0433\u043e\u043d\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u043d \u0432\u0438\u0434. \u0432) \u0438 \u0433)</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "969247e79fedb2444a73556a65864814",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='Hstk-0' random-id='88a13c5e-5d23-ecfc-18ad-6e3072c560ea'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;03fa6ca816c94b67aa21ef033d00d2e0&quot;}' data-label='null' data-model-id='&quot;03fa6ca816c94b67aa21ef033d00d2e0&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n= 5\\sqrt{2}\\left(\\cos\\frac{7\\pi}{4}+i\\sin\\frac{7\\pi}{4}\\right)\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "48305b5401a4b38a0cd037a0407c788d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "95bcd91038af4077c921dc1a4b60c688",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='ZHCJ-0' random-id='793a4081-2aeb-9f77-14d8-b3c65f68d474'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;1a124eebb7d04b4fa19d1317b0a2211c&quot;}' data-label='null' data-model-id='&quot;1a124eebb7d04b4fa19d1317b0a2211c&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n= 7\\left(\\cos\\frac{\\pi}{6}+i\\sin\\frac{\\pi}{6}\\right)\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "b6cfc3718d596db02f88b22b3300899d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "b1664aa96133fab6452cf85f8fa1257f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"3\">\u0417\u0430\u0434\u0430\u0447\u0430 3</h1>\n<span class=\"paragraph\">\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0435\u0442\u0435 \u0432 \u043e\u0439\u043b\u0435\u0440\u043e\u0432\u0430 \u0444\u043e\u0440\u043c\u0430, \u0431) \u0438 \u0432)</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "5bdf784007272f59612644ebb3d007f5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='qnkX-0' random-id='be999b1a-255a-c0b4-84e2-f009b69a3a66'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;b3ffb5e36dda441b8d201b9a856967a8&quot;}' data-label='null' data-model-id='&quot;b3ffb5e36dda441b8d201b9a856967a8&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n= 2\\cdot 5\\,e^{i\\frac{\\pi}{3}}\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "DnEU",
+      "code_hash": "cd3753788b1b59aeee8723b5a985464c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ulZA",
+      "code_hash": "3b310eb0d0bc5b73d89f999f24c0629a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='DnEU-0' random-id='070924b2-0486-0abe-56b3-de9a83dabfb5'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;c813305f3ca6407490ab6da3290b6a86&quot;}' data-label='null' data-model-id='&quot;c813305f3ca6407490ab6da3290b6a86&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n= e^{-i5}\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ecfG",
+      "code_hash": "57082ca4132fcbe82864dde2a7ec5cd0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Pvdt",
+      "code_hash": "7f83cf79798a30a5a622e55d745d3cef",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"4\">\u0417\u0430\u0434\u0430\u0447\u0430 4</h1>\n<span class=\"paragraph\">\u0420\u0435\u0448\u0435\u0442\u0435 \u0443\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435\u0442\u043e, \u0430) \u0438 \u0431)</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZBYS",
+      "code_hash": "0f03e6769c9de3016692a784194cfcee",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='ecfG-0' random-id='0a9749c4-c8c0-56bf-837b-a4328a707d37'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;30ece49519504f42a41788d3b40c1980&quot;}' data-label='null' data-model-id='&quot;30ece49519504f42a41788d3b40c1980&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\n(x,y)=\n\\left(\\frac{\\left(1 + \\sqrt{161}\\right)}{10}, \\frac{\\left(1 - \\sqrt{161}\\right)}{2}\\right)\\\\[1em]\n\\quad\\text{\u0438\u043b\u0438}\\quad\\\\[1em]\n(x,y)=\n\\left(\\frac{\\left(1 - \\sqrt{161}\\right)}{10}, \\frac{\\left(1 + \\sqrt{161}\\right)}{2}\\right)\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aLJB",
+      "code_hash": "03a1b7de61e0f1422ff97a174f28833a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nHfw",
+      "code_hash": "0bfe06a03685977305976693af34ba66",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='aLJB-0' random-id='40fab40b-bded-4816-7d51-14bf04889ead'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;4254d9c237c840c8a0c3b10c7082956a&quot;}' data-label='null' data-model-id='&quot;4254d9c237c840c8a0c3b10c7082956a&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><marimo-tex class=\"arithmatex\">||[\nx=-\\frac{1}{41},\\qquad y=-\\frac{5}{41}\n||]</marimo-tex><marimo-tex class=\"arithmatex\">||[\n\\boxed{(x,y)=\\left(-\\frac{1}{41},-\\frac{5}{41}\\right)}\n||]</marimo-tex></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "xXTn",
+      "code_hash": "2ff76ed08cf8f375447a94aae43123ba",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"6\">\u0417\u0430\u0434\u0430\u0447\u0430 6</h1>\n<span class=\"paragraph\">\u0418\u0437\u0440\u0430\u0437\u0435\u0442\u0435 \u0447\u0440\u0435\u0437 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0446\u0438\u0438 \u043d\u0430 <marimo-tex class=\"arithmatex\">||((e^{i\\alpha})^n||)</marimo-tex></span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "AjVT",
+      "code_hash": "51b81f5bf104230ae0ea8a01bb8c6686",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "pHFh",
+      "code_hash": "7ae0f2ee24ab9db27c015e0941195aba",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='AjVT-0' random-id='cfddf1bc-82dd-a3d3-5cdb-3d06ad0e715b'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;15de536428d1428a8fe02baf0a2d6e10&quot;}' data-label='null' data-model-id='&quot;15de536428d1428a8fe02baf0a2d6e10&quot;'></marimo-anywidget></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">\u0422\u044a\u0439 \u043a\u0430\u0442\u043e <marimo-tex class=\"arithmatex\">||(a=5||)</marimo-tex> \u0435 \u043d\u0435\u0447\u0435\u0442\u043d\u043e, \u043f\u043e\u043b\u0443\u0447\u0430\u0432\u0430\u043c\u0435:</span>\n<marimo-tex class=\"arithmatex\">||[\n{\\cos(20)+i\\sin(20)=(e^{i5})^4}\\\\[1em]\n{\\cos(5)-i\\sin(5)=(e^{i5})^{-1}}\n||]</marimo-tex></span></div>"
           }
         }
       ],
